@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>ALL GAMES</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+						<text>ALL GAMES</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+						<text>ALL GAMES</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+						<text>ALL GAMES</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>ALL GAMES</text>
+		</text>
+	</view>
+</theme>

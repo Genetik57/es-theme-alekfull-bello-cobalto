@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>4 PLAYERS</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+						<text>4 PLAYERS</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+						<text>4 PLAYERS</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+						<text>4 JOUEURS</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>4 PLAYERS</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>COLLECTIONS</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+						<text>COLLECTIONS</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+						<text>COLLECTIONS</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+						<text>COLLECTIONS</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>COLLECTIONS</text>
+		</text>
+	</view>
+</theme>

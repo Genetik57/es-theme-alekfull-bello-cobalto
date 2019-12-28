@@ -1,0 +1,25 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true" region="Português">
+			<text>LIGHT GUN</text>
+		</text>
+		
+				<text name="info1" extra="true" region="English">
+						<text>LIGHT GUN</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Español">
+						<text>LIGHT GUN</text>
+		</text>
+		
+				<text name="info1" extra="true" region="Français">
+						<text>LIGHT GUN</text>
+		</text>
+		
+				<text name="info2" extra="true">
+			<text>LIGHT GUN</text>
+		</text>
+	</view>
+</theme>
